@@ -1,5 +1,5 @@
 import java.util.Scanner;
- public class Sample
+public class Sample
 {
     public static void main(String args[])
     {
@@ -9,6 +9,5 @@ import java.util.Scanner;
         y=sc.nextFloat();
         z=x*y;
         System.out.format("%.2f",z);
-        sc.close();
     }
 }
